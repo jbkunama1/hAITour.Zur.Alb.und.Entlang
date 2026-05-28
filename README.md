@@ -1,7 +1,7 @@
 # hAITour: Zur Alb und Entlang 🚴‍♂️🌿
 
 <p align="center">
-  <img src="logo_ZurAlbUndEntlang.png" alt="hAITour Logo" width="220" />
+  <img src="logo_AlbTour.png" alt="hAITour Logo" width="220" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ hAI.Zur.Alb.und.Entlang/
 ├─ README.md                              ← diese Datei
 ├─ index.html                             ← GitHub Pages Startseite
 ├─ LICENSE                                ← MIT Lizenz
-├─ logo_ZurAlbUndEntlang.png              ← Tour-Logo
+├─ logo_AlbTour.png                        ← Tour-Logo
 ├─ Screenshot_Hinweg.jpg                  ← Fitnessdaten Hinweg (Smartwatch)
 ├─ Screenshot_Rückweg.jpg                 ← Fitnessdaten Rückweg (Smartwatch)
 ├─ images/                                ← Fotos der Tour

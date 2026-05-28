@@ -21,6 +21,7 @@
       padding: 2.5rem 1rem;
       text-align: center;
     }
+    header img { width: 120px; margin-bottom: 1rem; border-radius: 12px; }
     header h1 { font-size: 2rem; margin-bottom: 0.4rem; }
     header p { font-size: 1.1rem; opacity: 0.9; }
     .badges { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin-top: 1rem; }
@@ -37,7 +38,8 @@
     .card ul { padding-left: 1.2rem; }
     .map-btn {
       display: inline-block;
-      margin-top: 1rem;
+      margin-top: 0.6rem;
+      margin-right: 0.5rem;
       padding: 0.6rem 1.4rem;
       background: var(--green);
       color: white;
@@ -68,6 +70,7 @@
 <body>
 
 <header>
+  <img src="logo_AlbTour.png" alt="hAITour Logo" />
   <h1>🚴‍♂️ hAITour: Zur Alb und Entlang 🌿</h1>
   <p>Hybrid AI Tour – dokumentiert mit Karten, Tracks &amp; GitHub Pages</p>
   <div class="badges">
@@ -81,25 +84,22 @@
 
   <div class="card">
     <h2>🗺️ Route auf einen Blick</h2>
-    <p>Eine Fahrradtour <strong>zur Alb und entlang des Flusses</strong> – Natur, Flusslandschaft und frische Luft pur.</p>
-    <a class="map-btn" href="#" target="_blank">🗺️ Route auf Google Maps</a>
-    <p style="margin-top:0.6rem; font-size:0.85rem;">*(Link wird nach Routenplanung ergänzt)*</p>
+    <p>Eine Fahrradtour <strong>zur Alb und zurück</strong> – Natur, Flusslandschaft und frische Luft pur.</p>
+    <a class="map-btn" href="https://maps.app.goo.gl/upds8c44cXkyoPdW8" target="_blank">🗺️ Teil 1 – Hinweg</a>
+    <a class="map-btn" href="https://maps.app.goo.gl/Q6Rf3jt9WMyzWnBQ8" target="_blank">🗺️ Teil 2 – Alb & Rückweg</a>
+    <p style="margin-top:0.6rem; font-size:0.85rem; color:#e65100;">⚠️ Teil 2: Link zeigt umgekehrte Richtung – in Gegenrichtung fahren!</p>
   </div>
 
   <div class="card">
     <h2>🚴 Tourabschnitte</h2>
     <div class="section-grid">
       <div class="section-card">
-        <h3>Teil 1 – Start &amp; Anfahrt</h3>
+        <h3>Teil 1 – Hinweg zur Alb</h3>
         <p>Einrollen, erste Kilometer Richtung Alb 🌄</p>
       </div>
       <div class="section-card">
-        <h3>Teil 2 – Entlang der Alb</h3>
-        <p>Flussbegleitung, Radwege, Natur 🌊🌳</p>
-      </div>
-      <div class="section-card">
-        <h3>Teil 3 – Finale &amp; Rückweg</h3>
-        <p>Zielpunkt und Heimweg 🏁</p>
+        <h3>Teil 2 – Alb & Rückweg</h3>
+        <p>Entlang der Alb + Rückweg 🌊🌳</p>
       </div>
     </div>
   </div>
@@ -112,9 +112,8 @@
       </thead>
       <tbody>
         <tr><td>🚴 Gesamtroute</td><td><a href="tracks/route_zur_alb_entlang.gpx">⬇️ GPX</a></td></tr>
-        <tr><td>Teil 1 – Start &amp; Anfahrt</td><td><a href="tracks/teil1_start.gpx">⬇️ GPX</a></td></tr>
-        <tr><td>Teil 2 – Entlang der Alb</td><td><a href="tracks/teil2_alb.gpx">⬇️ GPX</a></td></tr>
-        <tr><td>Teil 3 – Finale &amp; Rückweg</td><td><a href="tracks/teil3_finale.gpx">⬇️ GPX</a></td></tr>
+        <tr><td>Teil 1 – Hinweg zur Alb</td><td><a href="tracks/teil1_hinweg.gpx">⬇️ GPX</a></td></tr>
+        <tr><td>Teil 2 – Alb & Rückweg</td><td><a href="tracks/teil2_alb_rueckweg.gpx">⬇️ GPX</a></td></tr>
       </tbody>
     </table>
   </div>
