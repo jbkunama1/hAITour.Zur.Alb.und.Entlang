@@ -21,12 +21,17 @@
 ## 🗺️ Route – Google Maps
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🗺️%20Route%20ansehen-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Route auf Google Maps" />
+  <a href="https://maps.app.goo.gl/upds8c44cXkyoPdW8" target="_blank">
+    <img src="https://img.shields.io/badge/🗺️%20Teil%201%20ansehen-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Teil 1 auf Google Maps" />
+  </a>
+  &nbsp;
+  <a href="https://maps.app.goo.gl/Q6Rf3jt9WMyzWnBQ8" target="_blank">
+    <img src="https://img.shields.io/badge/🗺️%20Teil%202%20ansehen-Google%20Maps-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Teil 2 auf Google Maps" />
   </a>
 </p>
 
-> 📍 [Komplette Route: Zur Alb und Entlang auf Google Maps öffnen](#) *(Link wird ergänzt)*
+> 📍 **Teil 1:** [Zur Alb – auf Google Maps öffnen](https://maps.app.goo.gl/upds8c44cXkyoPdW8)
+> 📍 **Teil 2:** [Entlang der Alb – auf Google Maps öffnen](https://maps.app.goo.gl/Q6Rf3jt9WMyzWnBQ8) ⚠️ *Richtung im Original umgekehrt – Route gedanklich andersrum fahren!*
 
 ---
 
@@ -48,8 +53,8 @@ Dieses Repository begleitet meine Fahrradtour **zur Alb und entlang des Flusses*
 
 Die Tour ist in Abschnitte aufgeteilt:
 
-1. **Teil 1 – Start & Anfahrt zur Alb** → *(Route wird ergänzt)*
-2. **Teil 2 – Entlang der Alb** → *(Route wird ergänzt)*
+1. **Teil 1 – Start & Anfahrt zur Alb** → [Google Maps 🗺️](https://maps.app.goo.gl/upds8c44cXkyoPdW8)
+2. **Teil 2 – Entlang der Alb** → [Google Maps 🗺️](https://maps.app.goo.gl/Q6Rf3jt9WMyzWnBQ8) *(umgekehrte Richtung fahren!)*
 3. **Teil 3 – Finale & Rückweg** → *(Route wird ergänzt)*
 
 ---
@@ -59,8 +64,8 @@ Die Tour ist in Abschnitte aufgeteilt:
 | Abschnitt | Google Maps | GPX Download |
 |---|---|---|
 | 🚴 Gesamtroute – Zur Alb und Entlang | *(folgt)* | [⬇️ GPX herunterladen](tracks/route_zur_alb_entlang.gpx) |
-| 🚴 Teil 1 – Start & Anfahrt | *(folgt)* | [⬇️ GPX herunterladen](tracks/teil1_start.gpx) |
-| 🚴 Teil 2 – Entlang der Alb | *(folgt)* | [⬇️ GPX herunterladen](tracks/teil2_alb.gpx) |
+| 🚴 Teil 1 – Start & Anfahrt zur Alb | [Maps 🗺️](https://maps.app.goo.gl/upds8c44cXkyoPdW8) | [⬇️ GPX herunterladen](tracks/teil1_start.gpx) |
+| 🚴 Teil 2 – Entlang der Alb *(Richtung umkehren!)* | [Maps 🗺️](https://maps.app.goo.gl/Q6Rf3jt9WMyzWnBQ8) | [⬇️ GPX herunterladen](tracks/teil2_alb.gpx) |
 | 🚴 Teil 3 – Finale & Rückweg | *(folgt)* | [⬇️ GPX herunterladen](tracks/teil3_finale.gpx) |
 
 > 💡 **Hinweis:** Die GPX-Tracks liegen im Ordner `tracks/` und können direkt heruntergeladen werden.
@@ -76,14 +81,14 @@ Die Tour ist in Abschnitte aufgeteilt:
 ## 🗺️ Karten & Abschnitte
 
 ### Teil 1: Start & Anfahrt zur Alb
-- Start: *(Startpunkt eintragen)*
 - Charakter: Einrollen, erste Kilometer, Richtung Alb 🌄
-- Route: *(Google Maps Link folgt)*
+- Route: [Google Maps öffnen](https://maps.app.goo.gl/upds8c44cXkyoPdW8)
 
 ### Teil 2: Entlang der Alb
 - Hauptabschnitt am Fluss entlang
 - Radwege, Natur, Flussnähe 🌊🌳
-- Route: *(Google Maps Link folgt)*
+- Route: [Google Maps öffnen](https://maps.app.goo.gl/Q6Rf3jt9WMyzWnBQ8)
+- ⚠️ **Hinweis:** Link zeigt umgekehrte Richtung – Tour wird in Gegenrichtung gefahren!
 
 ### Teil 3: Finale & Rückweg
 - Ziel: *(Zielpunkt eintragen)*
