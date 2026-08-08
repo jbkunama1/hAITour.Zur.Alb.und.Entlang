@@ -10,9 +10,9 @@
   </a>
 </p>
 
-![GitHub Pages](https://img.shields.io/badge/view%20on-GitHub%20Pages-blueviolet?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-in%20Planung%20🔜-orange?style=for-the-badge)
+[![GitHub Pages](https://img.shields.io/badge/view%20on-GitHub%20Pages-blueviolet?style=for-the-badge)](https://github.com/jbkunama1/hAITour.Zur.Alb.und.Entlang)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/jbkunama1/hAITour.Zur.Alb.und.Entlang)
+[![Status](https://img.shields.io/badge/status-in%20Planung%20🔜-orange?style=for-the-badge)](https://github.com/jbkunama1/hAITour.Zur.Alb.und.Entlang)
 
 > **Hybrid AI Tour** – Eine Fahrradtour **zur Alb und zurück**, dokumentiert mit Karten, Bildern und GitHub Pages. 🤖🚴
 
